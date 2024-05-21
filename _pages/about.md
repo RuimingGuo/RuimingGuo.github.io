@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,3 +16,9 @@ I am a Postdoctoral Research Associate at EEE Department of Imperial College Lon
 Research Interests
 ======
 My research includes sampling theory, image and signal processing, computational imaging, and non-conventional geometric visualization of 1D real data. Currently, I am focusing on the **Unlimited Sensing Framework**, an emerging field that integrates a synergetic co-design of unconventional hardware and novel mathematical algorithms. 
+
+Contact
+======
+Room 805, Department of Electrical and Electronic Engineering 
+Imperial College London
+London, UK
