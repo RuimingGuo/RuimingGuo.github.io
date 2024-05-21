@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Professional Services"
 permalink: /review/
 author_profile: true
 ---
