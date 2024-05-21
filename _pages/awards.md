@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Awards"
-permalink: /talks/
+permalink: /awards/
 author_profile: true
 ---
 
