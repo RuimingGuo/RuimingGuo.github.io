@@ -14,6 +14,7 @@ PhD Thesis
 =========
   Ruiming, Guo. "Exploring the Multi-Dimensional Geometry of One-Dimensional Signals." PhD diss., The Chinese University of Hong Kong (Hong Kong), 2021.
 <br/>
+
 Journal Papers (* denotes co-first author, ^ denotes correspondence author)
 =========
   1. **Ruiming, Guo**, and Thierry Blu. "Super-Resolving a Frequency Band [Tips & Tricks]." IEEE Signal Processing Magazine 40, no. 7 (2023): 73-77.
