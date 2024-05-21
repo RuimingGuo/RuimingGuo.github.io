@@ -10,9 +10,15 @@ author_profile: true
 {% endif %}
 
 
+
+
+
 PhD Thesis
 =========
   Ruiming, Guo. "Exploring the Multi-Dimensional Geometry of One-Dimensional Signals." PhD diss., The Chinese University of Hong Kong (Hong Kong), 2021.
+
+
+
 
 
 
@@ -24,6 +30,9 @@ Journal Papers (* denotes co-first author, ^ denotes correspondence author)
   4. Yongfei, Li, __Ruiming, Guo*^__, Thierry Blu, and Hangfang Zhao. "Generic FRI-based DOA estimation: A model-fitting method." IEEE Transactions on Signal Processing 69 (2021): 4102-4115.
   5. **Ruiming, Guo^**, and Thierry Blu. "Exploring the geometry of one-dimensional signals." IEEE Transactions on Signal Processing 69 (2021): 5299-5312.
   6. **Ruiming, Guo^**, and Thierry Blu. "FRI sensing: Retrieving the trajectory of a mobile sensor from its temporal samples." IEEE Transactions on Signal Processing 68 (2020): 5533-5545.
+
+
+
 
 
 
