@@ -8,19 +8,16 @@ author_profile: true
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
-_________________
-
-
+<br/><br/>
+_____________________________________________________________________________________________________________________
 
 
 PhD Thesis
 =========
   Ruiming, Guo. "Exploring the Multi-Dimensional Geometry of One-Dimensional Signals." PhD diss., The Chinese University of Hong Kong (Hong Kong), 2021.
-_________________
+_____________________________________________________________________________________________________________________
 
-
-
-
+<br/><br/>
 
 Journal Papers (* denotes co-first author, ^ denotes correspondence author)
 =========
@@ -30,13 +27,15 @@ Journal Papers (* denotes co-first author, ^ denotes correspondence author)
   4. Yongfei, Li, __Ruiming, Guo*^__, Thierry Blu, and Hangfang Zhao. "Generic FRI-based DOA estimation: A model-fitting method." IEEE Transactions on Signal Processing 69 (2021): 4102-4115.
   5. **Ruiming, Guo^**, and Thierry Blu. "Exploring the geometry of one-dimensional signals." IEEE Transactions on Signal Processing 69 (2021): 5299-5312.
   6. **Ruiming, Guo^**, and Thierry Blu. "FRI sensing: Retrieving the trajectory of a mobile sensor from its temporal samples." IEEE Transactions on Signal Processing 68 (2020): 5533-5545.
-_________________
+
+_____________________________________________________________________________________________________________________
+
+
+<br/><br/>
 
 
 
-
-
-Conference Papers (* denotes co-first author, ^ denotes correspondence author)
+Conference Papers
 =========
   1. Yuliang, Zhu, **Ruiming, Guo**, Peiyu Zhang, and Ayush Bhandari. "Frequency Estimation via Sub-Nyquist Unlimited Sampling." In ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 9636-9640. IEEE, 2024.
   2. **Ruiming, Guo**, and Ayush Bhandari. "Unlimited Sampling of FRI Signals Independent of Sampling Rate." In ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 1-5. IEEE, 2023.
