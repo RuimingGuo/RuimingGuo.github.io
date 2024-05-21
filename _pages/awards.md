@@ -5,8 +5,6 @@ permalink: /awards/
 author_profile: true
 ---
 
-
-=========
   1. CUHK EE Department's 2021 Postgraduate Student Research Excellence Awards, Feb 2022
   2. CUHK Tutor Commendation, 2020 - 2021
   3. Hong Kong Postgraduate Scholarship, 2017 - 2021
