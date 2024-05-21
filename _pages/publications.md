@@ -8,14 +8,11 @@ author_profile: true
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
-
 <br/><br/>
-
 
 PhD Thesis
 =========
   Ruiming, Guo. "Exploring the Multi-Dimensional Geometry of One-Dimensional Signals." PhD diss., The Chinese University of Hong Kong (Hong Kong), 2021.
-
 
 <br/><br/>
 
@@ -28,12 +25,7 @@ Journal Papers (* denotes co-first author, ^ denotes correspondence author)
   5. **Ruiming, Guo^**, and Thierry Blu. "Exploring the geometry of one-dimensional signals." IEEE Transactions on Signal Processing 69 (2021): 5299-5312.
   6. **Ruiming, Guo^**, and Thierry Blu. "FRI sensing: Retrieving the trajectory of a mobile sensor from its temporal samples." IEEE Transactions on Signal Processing 68 (2020): 5533-5545.
 
-_____________________________________________________________________________________________________________________
-
-
 <br/><br/>
-
-
 
 Conference Papers
 =========
