@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Talks"
+title: "Invited Talks"
 permalink: /talks/
 author_profile: true
 ---
 
-Invited Talks
+
 =========
   1. Sub-Nyquist USF Spectral Estimation: K Frequencies with 6K+4 Modulo Samples, Imperial College London, 26 Feb 2024.
   2. Unlimited Sensing Framework: Digitization Beyond the Shannon-Nyquist Philosophy, The Chinese University of Hong Kong, 3 Oct 2023.
