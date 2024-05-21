@@ -1,5 +1,7 @@
 ---
 permalink: /
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,8 +10,6 @@ redirect_from:
 
 
 
-About Me
-======
 I am a Postdoctoral Research Associate at EEE Department of Imperial College London (ICL), working with Prof. Ayush Bhandari on computational imaging and modulo sampling. Previously, I was a Postdoctoral fellow at EE Department at CUHK, advised by Prof. Thierry BLU. I obtained my Ph.D. degree from the Chinese University of Hong Kong where I had a wonderful time, in July 2021, supervised by Prof. Thierry BLU. I received my bachelor's degree in Electronic Engineering from Sichuan University (SCU) in 2017. 
 
 
