@@ -17,22 +17,22 @@ PhD Thesis
 
 Journal Papers (* denotes co-first author, ^ denotes correspondence author)
 =========
-  1. **Ruiming, Guo**, and Thierry Blu. "Super-Resolving a Frequency Band [Tips & Tricks]." IEEE Signal Processing Magazine 40, no. 7 (2023): 73-77.
-  2. Yongfei, Li*, __Ruiming, Guo*__, Thierry Blu, and Hangfang Zhao. "Robust sparse reconstruction of attenuated acoustic field with unknown range of source." The Journal of the Acoustical Society of America 152, no. 6 (2022): 3523-3534.
-  3. **Ruiming, Guo^**, Yongfei Li, Thierry Blu, and Hangfang Zhao. "Vector-FRI recovery of multi-sensor measurements." IEEE Transactions on Signal Processing 70 (2022): 4369-4380.
-  4. Yongfei, Li, __Ruiming, Guo*^__, Thierry Blu, and Hangfang Zhao. "Generic FRI-based DOA estimation: A model-fitting method." IEEE Transactions on Signal Processing 69 (2021): 4102-4115.
-  5. **Ruiming, Guo^**, and Thierry Blu. "Exploring the geometry of one-dimensional signals." IEEE Transactions on Signal Processing 69 (2021): 5299-5312.
-  6. **Ruiming, Guo^**, and Thierry Blu. "FRI sensing: Retrieving the trajectory of a mobile sensor from its temporal samples." IEEE Transactions on Signal Processing 68 (2020): 5533-5545.
+  1. **R. Guo** and T. Blu, “Super-resolving a frequency band [Tips & Tricks],” IEEE Signal Process. Mag., vol. 40, no. 7, pp. 73–77, Nov. 2023.
+  2. Y. Li*, __R. Guo*__, T. Blu, and H. Zhao, “Robust sparse reconstruction of attenuated acoustic field with unknown range of source,” The Journal of the Acoustical Society of America, vol. 152, no. 6, pp. 3523–3534, Dec. 2022.
+  3. **R. Guo^**, Y. Li, T. Blu, and H. Zhao, “Vector-FRI recovery of multi-sensor measurements,” IEEE Trans. Signal Process., vol. 70, pp. 4369–4380, Sep. 2022.
+  4. Y. Li*, __R. Guo*^__, T. Blu, and H. Zhao, “Generic FRI-based DOA estimation: A model-fitting method,” IEEE Trans. Signal Process., vol. 69, pp. 4102–4115, Jun. 2021.
+  5. **R. Guo^** and T. Blu, “Exploring the geometry of one-dimensional signals,” IEEE Trans. Signal Process., vol. 69, pp. 5299–5312, Sep. 2021.
+  6. **R. Guo^** and T. Blu, “FRI sensing: Retrieving the trajectory of a mobile sensor from its temporal samples,” IEEE Trans. Signal Process., vol. 68, pp. 5533–5545, Sep. 2020.
 <br/>
 
 Conference Papers
 =========
-  1. Yuliang, Zhu, **Ruiming, Guo**, Peiyu Zhang, and Ayush Bhandari. "Frequency Estimation via Sub-Nyquist Unlimited Sampling." In ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 9636-9640. IEEE, 2024.
-  2. **Ruiming, Guo**, and Ayush Bhandari. "Unlimited Sampling of FRI Signals Independent of Sampling Rate." In ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 1-5. IEEE, 2023.
-  3. **Ruiming, Guo**, and Ayush Bhandari. "ITER-SIS: Robust unlimited sampling via iterative signal sieving." In ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 1-5. IEEE, 2023.
-  4. Gang, Luo, **Ruiming Guo**, Renjie Zhou, and Thierry Blu. "A Fast Robust Phase Restoration Algorithm." In Computational Optical Sensing and Imaging, pp. CM2A-6. Optica Publishing Group, 2022.
-  5. Gang, Luo, **Ruiming Guo**, Renjie Zhou, and Thierry Blu. "Iterative Single-frame High-bandwidth Complex Wave Retrieval Algorithm." In Digital Holography and Three-Dimensional Imaging, pp. M5A-5. Optica Publishing Group, 2022.
-  6. **Ruiming Guo**, and Thierry Blu. "FRI sensing: 2D localization from 1D mobile sensor data." In 2020 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), pp. 986-991. IEEE, 2020.
-  7. **Ruiming Guo**, and Thierry Blu. "FRI sensing: Sampling images along unknown curves." In ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 5132-5136. IEEE, 2019.
-  8. <strong>Wei, Wang*</strong>, <strong>Ruiming, Guo*</strong>, Yapeng Tian, and Wenming Yang. "Cfsnet: Toward a controllable feature space for image restoration." In Proceedings of the IEEE/CVF international conference on computer vision, pp. 4140-4149. 2019.
-  9. Pengrui, Quan, **Ruiming Guo**, and Mani Srivastava. "Towards imperceptible query-limited adversarial attacks with perceptual feature fidelity loss." arXiv preprint arXiv:2102.00449 (2021).
+  1. Y. Zhu, **R. Guo**, P. Zhang, and A. Bhandari, “Frequency estimation via sub-nyquist unlimited sampling,” in IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP). IEEE, Apr. 2024.
+  2. **R. Guo** and A. Bhandari, “ITER-SIS: Robust unlimited sampling via iterative signal sieving,” in IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP). IEEE, Jun. 2023.
+  3. **R. Guo** and A. Bhandari, “Unlimited sampling of FRI signals independent of sampling rate,” in IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP). IEEE, Jun. 2023.
+  4. G. Luo, **R. Guo**, R. Zhou, and T. Blu, “A fast robust phase restoration algorithm,” in Imaging and Applied Optics Congress 2022 (3D, AOA, COSI, ISA, pcAOP), ser. COSI. Optica Publishing Group, Jul. 2022.
+  5. G. Luo, **R. Guo**, R. Zhou, and T. Blu, “Iterative single-frame high-bandwidth complex wave retrieval algorithm,” in Digital Holography and 3-D Imaging 2022, ser. DH. Optica Publishing Group, Jul. 2022.
+  6. **R. Guo** and T. Blu, “FRI sensing: 2D localization from 1D mobile sensor data,” in Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC). IEEE, Dec. 2020.
+  7. **R. Guo** and T. Blu, “FRI sensing: Sampling images along unknown curves,” in IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP). IEEE, May 2019.
+  8. <strong>W. Wang*<strong>, <strong>R. Guo*<strong>, Y. Tian, and W. Yang, “CFSNet: Toward a controllable feature space for image restoration,” in Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), Oct. 2019.
+  9. P. Quan, **R. Guo**, and M. Srivastava, “Towards imperceptible query-limited adversarial attacks with perceptual feature fidelity loss.” arXiv, Jan. 2021.
