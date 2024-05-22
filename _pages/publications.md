@@ -34,5 +34,5 @@ Conference Papers
   5. G. Luo, **R. Guo**, R. Zhou, and T. Blu, “Iterative single-frame high-bandwidth complex wave retrieval algorithm,” in Digital Holography and 3-D Imaging 2022, ser. DH. Optica Publishing Group, Jul. 2022.
   6. **R. Guo** and T. Blu, “FRI sensing: 2D localization from 1D mobile sensor data,” in Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC). IEEE, Dec. 2020.
   7. **R. Guo** and T. Blu, “FRI sensing: Sampling images along unknown curves,” in IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP). IEEE, May 2019.
-  8. <strong>W. Wang*<strong>, <strong>R. Guo*<strong>, Y. Tian, and W. Yang, “CFSNet: Toward a controllable feature space for image restoration,” in Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), Oct. 2019.
+  8. <strong>W. Wang*</strong>, <strong>R. Guo*</strong>, Y. Tian, and W. Yang, “CFSNet: Toward a controllable feature space for image restoration,” in Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), Oct. 2019.
   9. P. Quan, **R. Guo**, and M. Srivastava, “Towards imperceptible query-limited adversarial attacks with perceptual feature fidelity loss.” arXiv, Jan. 2021.
