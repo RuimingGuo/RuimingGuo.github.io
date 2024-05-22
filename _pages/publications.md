@@ -27,12 +27,16 @@ Journal Papers (* denotes co-first author, ^ denotes correspondence author)
 
 Conference Papers
 =========
-  1. Y. Zhu, **R. Guo**, P. Zhang, and A. Bhandari, “Frequency estimation via sub-nyquist unlimited sampling,” in IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP). IEEE, Apr. 2024.
-  2. **R. Guo** and A. Bhandari, “ITER-SIS: Robust unlimited sampling via iterative signal sieving,” in IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP). IEEE, Jun. 2023.
-  3. **R. Guo** and A. Bhandari, “Unlimited sampling of FRI signals independent of sampling rate,” in IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP). IEEE, Jun. 2023.
-  4. G. Luo, **R. Guo**, R. Zhou, and T. Blu, “A fast robust phase restoration algorithm,” in Imaging and Applied Optics Congress 2022 (3D, AOA, COSI, ISA, pcAOP), ser. COSI. Optica Publishing Group, Jul. 2022.
-  5. G. Luo, **R. Guo**, R. Zhou, and T. Blu, “Iterative single-frame high-bandwidth complex wave retrieval algorithm,” in Digital Holography and 3-D Imaging 2022, ser. DH. Optica Publishing Group, Jul. 2022.
-  6. **R. Guo** and T. Blu, “FRI sensing: 2D localization from 1D mobile sensor data,” in Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC). IEEE, Dec. 2020.
-  7. **R. Guo** and T. Blu, “FRI sensing: Sampling images along unknown curves,” in IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP). IEEE, May 2019.
-  8. <strong>W. Wang*</strong>, <strong>R. Guo*</strong>, Y. Tian, and W. Yang, “CFSNet: Toward a controllable feature space for image restoration,” in Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), Oct. 2019.
-  9. P. Quan, **R. Guo**, and M. Srivastava, “Towards imperceptible query-limited adversarial attacks with perceptual feature fidelity loss.” arXiv, Jan. 2021.
+  1. **R. Guo** and A. Bhandari, "ED-FreEst: Event-Driven Frequency Estimation", in European Signal Processing Conference (EUSIPCO). EURASIP, Aug. 2024 (Upcoming).
+  2. V. Pavlíček, **R. Guo** and A. Bhandari, "Bits, Channels, Frequencies and Unlimited Sensing: Pushing the Limits of Sub-Nyquist Prony
+", in European Signal Processing Conference (EUSIPCO). EURASIP, Aug. 2024 (Upcoming).
+  3. Qi Dai, **R. Guo** and T. Blu, "Super-resolving Single Radar Target with an Exact and Simple Formula", in International Technical Conference on Circuits/Systems, Computers, and Communications. July.2024 (Upcoming).
+  4. Y. Zhu, **R. Guo**, P. Zhang, and A. Bhandari, “Frequency estimation via sub-nyquist unlimited sampling,” in IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP). IEEE, Apr. 2024.
+  5. **R. Guo** and A. Bhandari, “ITER-SIS: Robust unlimited sampling via iterative signal sieving,” in IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP). IEEE, Jun. 2023.
+  6. **R. Guo** and A. Bhandari, “Unlimited sampling of FRI signals independent of sampling rate,” in IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP). IEEE, Jun. 2023.
+  7. G. Luo, **R. Guo**, R. Zhou, and T. Blu, “A fast robust phase restoration algorithm,” in Imaging and Applied Optics Congress 2022 (3D, AOA, COSI, ISA, pcAOP), ser. COSI. Optica Publishing Group, Jul. 2022.
+  8. G. Luo, **R. Guo**, R. Zhou, and T. Blu, “Iterative single-frame high-bandwidth complex wave retrieval algorithm,” in Digital Holography and 3-D Imaging 2022, ser. DH. Optica Publishing Group, Jul. 2022.
+  9. **R. Guo** and T. Blu, “FRI sensing: 2D localization from 1D mobile sensor data,” in Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC). IEEE, Dec. 2020.
+  10. **R. Guo** and T. Blu, “FRI sensing: Sampling images along unknown curves,” in IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP). IEEE, May 2019.
+  11. <strong>W. Wang*</strong>, <strong>R. Guo*</strong>, Y. Tian, and W. Yang, “CFSNet: Toward a controllable feature space for image restoration,” in Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), Oct. 2019.
+  12. P. Quan, **R. Guo**, and M. Srivastava, “Towards imperceptible query-limited adversarial attacks with perceptual feature fidelity loss.” arXiv, Jan. 2021.
