@@ -7,7 +7,8 @@ author_profile: true
 
 - ICASSP: IEEE International Conference on Acoustics, Speech and Signal Processing
 - IEEE TSP: IEEE Transactions on Signal Processing
-- IEEE TSP Letters: IEEE Transactions on Signal Processing Letters
+- IEEE SPL: IEEE Signal Processing Letters
+- IEEE TIT: IEEE Transactions on Information Theory
 - ISBI: The IEEE International Symposium on Biomedical Imaging
 - IEEE TAES: IEEE Transactions on Aerospace and Electronic Systems
 - SP Journal: Signal Processing (Elsevier)
