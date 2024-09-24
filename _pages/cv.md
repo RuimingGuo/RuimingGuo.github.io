@@ -11,9 +11,3 @@ redirect_from:
 
 Here is the [CV](https://drive.google.com/file/d/1SizM79tbjRUj5XI0SWWfKvwvyedx_TMs/view?usp=sharing).
 
-
-
-title: "PhD Thesis"
-
-
-Here is the [PhD Thesis](https://drive.google.com/file/d/1IK2GRPQClAlNSOQn5tC2h-dohGG14qxu/view?usp=sharing).
