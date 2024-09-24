@@ -12,13 +12,11 @@ redirect_from:
 Here is the [CV](https://drive.google.com/file/d/1SizM79tbjRUj5XI0SWWfKvwvyedx_TMs/view?usp=sharing).
 
 
----
-layout: archive
+
 title: "PhD Thesis"
 permalink: /thesis/
 author_profile: true
-redirect_from:
-  - /resume
+
 ---
 
 {% include base_path %}
