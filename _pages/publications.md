@@ -12,7 +12,7 @@ author_profile: true
 
 PhD Thesis
 =========
-  Ruiming, Guo. "Exploring the Multi-Dimensional Geometry of One-Dimensional Signals." PhD diss., The Chinese University of Hong Kong (Hong Kong), 2021.
+  Ruiming, Guo. "[Exploring the Multi-Dimensional Geometry of One-Dimensional Signals]." (https://drive.google.com/file/d/1IK2GRPQClAlNSOQn5tC2h-dohGG14qxu/view?usp=sharing) PhD diss., The Chinese University of Hong Kong (Hong Kong), 2021.
 <br/>
 
 Journal Papers (* denotes co-first author, ^ denotes correspondence author)
