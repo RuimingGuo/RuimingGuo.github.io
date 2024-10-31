@@ -2,10 +2,14 @@
 == Ruiming Guo
 
 ~~~
-{}{img_left}{photos/IEEERG.jpg}{alt text}{326px}{245px}
+{}{img_left}{photos/IEEERG.jpg}{alt text}{166px}{207px}
 [https://ruimingguo.github.io/ Ruiming Guo], Ph.D. \n 
-Postdoctoral Research Associate at [https://www.imperial.ac.uk/ Imperial College London] \n
-South Kensington, London, United Kindom \n
+Postdoctoral Research Associate \n 
+\n
+Computational Sensing and Imaging Lab \n
+Department of Electrical and Electronic Engg \n
+[https://www.imperial.ac.uk/ Imperial College London] \n
+Imperial College London, London SW7-2AZ \n
 \n
 Email: ruiming.guo@imperial.ac.uk or greenming@link.cuhk.edu.hk \n
 \[[https://scholar.google.com/citations?user=FtWSJL0AAAAJ&hl=en Google Scholar]\]\[[CV.pdf Curriculem Vitae]\] \n
@@ -26,21 +30,21 @@ Email: ruiming.guo@imperial.ac.uk or greenming@link.cuhk.edu.hk \n
 #- \[08-18-2018\] "Demographic inference via knowledge transfer in cross-domain recommender systems" is accepted by ICDM'18!
 
 == About me
-I'm currently working at [https://www.amazon.com/ Amazon] as an Applied Scientist. I got my Ph.D. in Computer Science at Louisiana State University, under the guidance of Dr. [http://csc.lsu.edu/~msun/ Mingxuan Sun]. My research focuses on developing computationally efficient machine learning as well as deep learning models and algorithms, with applications in recommender systems, time-series analysis, computer vision, computer graphics, natural language processing, and fairness.
+I am a Postdoctoral Research Associate at EEE Department of Imperial College London (ICL), working with Prof. Ayush Bhandari on computational imaging and modulo sampling. Previously, I was a Postdoctoral fellow at EE Department at CUHK, advised by Prof. Thierry BLU. I obtained my Ph.D. degree from the Chinese University of Hong Kong where I had a wonderful time, in July 2021, supervised by Prof. Thierry BLU. I received my bachelor's degree in Electronic Engineering from Sichuan University (SCU) in 2017.
+
+My research includes sampling theory, image and signal processing, computational imaging, and non-conventional geometric visualization of 1D real data. Currently, I am focusing on the Unlimited Sensing Framework, an emerging field that integrates a synergetic co-design of unconventional hardware and novel mathematical algorithms.
 
 == Education 
-- Ph.D. in Computer Science, Louisiana State University, Aug. 2016 - Aug. 2020
-- M.S. in Solid Mechanics, University of Science and Technology of China, Sep. 2013 - Jun. 2016
-- B.S. in Theoretical and Applied Mechanics, University of Science and Technology of China, Sep. 2009 - Jun. 2013
+- Ph.D. in Computer Science, Louisiana State University, Jul. 2017 - Jul. 2021
+- B.S. in Electronic and Information Engineering, Sichuan University, Sep. 2013 - Jun. 2017
 
 == Research Interests 
-- Statistical Machine Learning, Deep Learning, Point Process, Optimization, Fairness
-- Data Mining, Information Retrieval, Recommender System 
-- Computer Vision, Computer Graphics, Natural Language Processing
+- Sparse Signal Processing
+- Computational Sensing and Imaging 
 
-== Visitors
-~~~
-{}{raw}
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=weAawplBogRZm4707J2DPkv1Pn3WYzslKBDineUl-bw'></script>
-~~~
+#== Visitors
+#~~~
+#{}{raw}
+#<script type='text/javascript' id='clustrmaps' #src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=weAawplBogRZm4707J2DPkv1Pn3WYzslKBDineUl-bw'></script>
+#~~~
 

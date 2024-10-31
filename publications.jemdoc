@@ -1,44 +1,80 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 == Publications 
 
-=== Conference
-- [pubs/M3Net.pdf Learning attribute and class-specific representation duet for fine-grained fashion analysis] \[[pubs/Supplementary.pdf Supplementary]] \n
-#- [https://openaccess.thecvf.com/content/CVPR2023/papers/Jiao_Learning_Attribute_and_Class-Specific_Representation_Duet_for_Fine-Grained_Fashion_Analysis_CVPR_2023_paper.pdf Learning attribute and class-specific representation duet for fine-grained fashion analysis] \n
-(acceptance rate: 2360\/9155=25.78\%) \n
-Yang Jiao, Yan Gao, Jingjing Meng, *Jin Shang*, and Yi Sun \n
-in Proc. of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Vancouver, Canada, Jun. 2023.
-- [pubs/list-wise.pdf List-wise fairness criterion for point processes] \[[https://github.com/jshang2/List-wise Code]\] \n
-#- [https://dl.acm.org/doi/10.1145/3394486.3403246 List-wise fairness criterion for point processes] \[[https://github.com/jshang2/List-wise Code]\] \n
-(research full paper, acceptance rate: 216\/1279=16.89\%) \n
-*Jin Shang*, Mingxuan Sun, and Nina S. N. Lam \n
-in Proc. of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), San Diego, USA, Aug. 2020.
-- [pubs/geo.pdf Geometric Hawkes processes with graph convolutional recurrent neural networks] \n
-#- [https://ojs.aaai.org//index.php/AAAI/article/view/4416 Geometric Hawkes processes with graph convolutional recurrent neural networks] \n #\[[pubs/GeometricHawkes.pdf Detailed Version]\] \n
-(acceptance rate: 1150\/7095=16.21\%) \n
-*Jin Shang*, and Mingxuan Sun \n
-in Proc. of the AAAI Conference on Artificial Intelligence (AAAI), Hawaii, USA, Jan. 2019.
-- [pubs/local-low-rank.pdf Local low-rank Hawkes processes for temporal user-item interactions] \n
-#- [https://ieeexplore.ieee.org/document/8594867 Local low-rank Hawkes processes for temporal user-item interactions] \n
-(regular paper, acceptance rate: 84\/948=8.86\%) \n
-*Jin Shang*, and Mingxuan Sun \n
-in Proc. of the IEEE International Conference on Data Mining (ICDM), Singapore, Nov. 2018.
-- [pubs/crossdemo.pdf Demographic inference via knowledge transfer in cross-domain recommender systems] \n
-#- [https://ieeexplore.ieee.org/document/8594971 Demographic inference via knowledge transfer in cross-domain recommender systems] \n #\[[pubs/crossDemoFull.pdf Full Version Submitted]\] \n
-(short paper, acceptance rate: 105\/948=11.08\%, total rate: 189\/948=19.94\%) \n
-*Jin Shang*, Mingxuan Sun, and Kevyn Collins-Thompson \n
-in Proc. of the IEEE International Conference on Data Mining (ICDM), Singapore, Nov. 2018.
 === Journal
-- [pubs/rescue.pdf A machine learning approach for detecting rescue requests from social media] \n
-#- [https://www.mdpi.com/2220-9964/11/11/570 A Machine Learning Approach for Detecting Rescue Requests from Social Media] \n
-Zheye Wang, Nina S. N. Lam, Mingxuan Sun, Xiao Huang, *Jin Shang*, Lei Zou, Yue Wu, and Volodymyr V. Mihunov \n
-in ISPRS International Journal of Geo-Information. 2022; 11(11):570.
-#- [pubs/10.1007_s10115-019-01379-6.pdf Local low-rank Hawkes processes for modeling temporal user-item interactions] \n
-- [https://link.springer.com/epdf/10.1007/s10115-019-01379-6?author_access_token=s_nsMmaalPrdXl_TOVnRvPe4RwlQNchNByi7wbcMAY5AKah_lrhoWQI_BWqaN1rdy485EoRHGCUV0XgpZKHYKnv9xw6wKjb9TKLudFy8YJN97SZc5Wk21ulu7kVceZPdNOcLNvsjTEu3D0Z7_GL_eQ%3D%3D Local low-rank Hawkes processes for temporal user-item interactions] \n 
-#- [https://link.springer.com/article/10.1007/s10115-019-01379-6 Local low-rank Hawkes processes for modeling temporal user-item interactions] \n
-*Jin Shang*, and Mingxuan Sun \n
-in Knowledge and Information Systems (KAIS) (2019):  1-24.
-- [pubs/Effect.pdf Effect of folded and crumpled morphologies of graphene oxide platelets on the mechanical performances of polymer nanocomposites] \n \[[pubs/Sup.docx Supporting Information]\] \n
-#- [https://www.sciencedirect.com/science/article/abs/pii/S003238611500436X Effect of folded and crumpled morphologies of graphene oxide platelets on the mechanical performances of polymer nanocomposites] \n \[[pubs/Sup.docx Supporting Information]\] \n
-*Jin Shang*, Yuli Chen, et al. \n
-in Polymer 68 (2015): 131-139.
+- Blind Time-of-Flight Imaging: Sparse Deconvolution on the Continuum with Unknown Kernels \n
+#- [https://ieeexplore.ieee.org/abstract/document/10313215 Super-Resolving a Frequency Band] \n
+Ruiming Guo and Ayush Bhandari \n
+in SIAM Journal on Imaging Sciences, (in production) 2024.
+- [pubs/6K.pdf Sub-Nyquist USF Spectral Estimation: K Frequencies with 6K+4 Modulo Samples] \n
+#- [https://ieeexplore.ieee.org/abstract/document/10697968 Sub-Nyquist USF Spectral Estimation: K Frequencies with 6K+4 Modulo Samples] \n
+Ruiming Guo, Yuliang Zhu, Ayush Bhandari \n
+in IEEE Trans. Signal Process., (in production) 2024.
+- [pubs/super_trick.pdf Super-Resolving a Frequency Band] \n
+#- [https://ieeexplore.ieee.org/abstract/document/10313215 Super-Resolving a Frequency Band] \n
+Ruiming Guo and Thierry Blu \n
+in IEEE Signal Process. Mag., vol. 40, no. 7, pp. 73–77, Nov. 2023.
+#- [pubs/JASA_Li.pdf Robust sparse reconstruction of attenuated acoustic field with unknown range of source] \n
+- [https://pubs.aip.org/asa/jasa/article/152/6/3523/2840157/Robust-sparse-reconstruction-of-attenuated?searchresult=1 Robust sparse reconstruction of attenuated acoustic field with unknown range of source] \n 
+Yongfei Li*, Ruiming Guo*, Thierry Blu, Hangfang Zhao\n
+in the Journal of the Acoustical Society of America, vol. 152, no. 6, pp. 3523–3534, Dec. 2022.
+- [pubs/vector_FRI.pdf Vector-FRI Recovery of Multi-Sensor Measurements] \n 
+#- [https://ieeexplore.ieee.org/document/9878078 Vector-FRI Recovery of Multi-Sensor Measurements] \n 
+Ruiming Guo, Yongfei Li, Hangfang Zhao, Thierry Blu \n
+in IEEE Trans. Signal Process., vol. 70, pp. 4369–4380, Sep. 2022.
+- [pubs/generic_FRI.pdf Generic FRI-Based DOA Estimation: A Model-Fitting Method] \n 
+#- [https://ieeexplore.ieee.org/document/9466398 Generic FRI-Based DOA Estimation: A Model-Fitting Method] \n 
+Yongfei Li, Ruiming Guo, Hangfang Zhao, Thierry Blu \n
+in  IEEE Trans. Signal Process., vol. 69, pp. 4102–4115, Jun. 2021.
+- [pubs/1D_FRI_sensing.pdf Exploring the Geometry of One-Dimensional Signals] \n 
+#- [https://ieeexplore.ieee.org/document/9540330 Exploring the Geometry of One-Dimensional Signals] \n 
+Ruiming Guo and Thierry Blu \n
+in IEEE Trans. Signal Process., vol. 69, pp. 5299–5312, Sep. 2021.
+- [pubs/FRI_Sensing_Retrieving_the_Trajectory_of_a_Mobile_Sensor_From_Its_Temporal_Samples.pdf FRI Sensing: Retrieving the Trajectory of a Mobile Sensor From Its Temporal Samples] \n 
+#- [https://ieeexplore.ieee.org/document/9195172 FRI Sensing: Retrieving the Trajectory of a Mobile Sensor From Its Temporal Samples] \n 
+Ruiming Guo and Thierry Blu \n
+in IEEE Trans. Signal Process., vol. 69, pp. 5299–5312, Sep. 2021.
+
+=== Conference
+- [pubs/ed_frest.pdf ED-FreEst: Event-Driven Frequency Estimation] \n
+#- [https://ieeexplore.ieee.org/document/10715061 ED-FreEst: Event-Driven Frequency Estimation] \n 
+#(short paper, acceptance rate: 105\/948=11.08\%, total rate: 189\/948=19.94\%) \n
+Ruiming Guo and Ayush Bhandari \n
+in European Signal Processing Conference (EUSIPCO). EURASIP, Aug. 2024.
+- [pubs/Bits_Channels_Frequencies_and_Unlimited_Sensing_Pushing_the_Limits_of_Sub-Nyquist_Prony.pdf Bits, Channels, Frequencies and Unlimited Sensing: Pushing the Limits of Sub-Nyquist Prony] \n
+#- [https://ieeexplore.ieee.org/document/10715350 Bits, Channels, Frequencies and Unlimited Sensing: Pushing the Limits of Sub-Nyquist Prony] \n
+#(short paper, acceptance rate: 105\/948=11.08\%, total rate: 189\/948=19.94\%) \n
+Václav Pavlíček, Ruiming Guo, Ayush Bhandari \n
+in European Signal Processing Conference (EUSIPCO). EURASIP, Aug. 2024.
+- [pubs/Super-resolving_Single_Radar_Target_with_an_Exact_and_Simple_Formula.pdf Super-resolving Single Radar Target with an Exact and Simple Formula] \n
+#- [https://ieeexplore.ieee.org/document/10628298 Super-resolving Single Radar Target with an Exact and Simple Formula] \n
+#(short paper, acceptance rate: 105\/948=11.08\%, total rate: 189\/948=19.94\%) \n
+Qi Dai, Ruiming Guo, Thierry Blu \n
+in International Technical Conference on Circuits/Systems, Computers, and Communications. July.2024.
+- [pubs/Frequency_Estimation_via_Sub-Nyquist_Unlimited_Sampling.pdf Frequency Estimation via Sub-Nyquist Unlimited Sampling] \n
+#- [https://ieeexplore.ieee.org/document/10447003 Frequency Estimation via Sub-Nyquist Unlimited Sampling] \n
+#(short paper, acceptance rate: 105\/948=11.08\%, total rate: 189\/948=19.94\%) \n
+Yuliang Zhu, Ruiming Guo, Peiyu Zhang, Ayush Bhandari \n
+in IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP). IEEE, Apr. 2024.
+- [pubs/itersis.pdf ITER-SIS: Robust Unlimited Sampling Via Iterative Signal Sieving] \n
+#- [https://ieeexplore.ieee.org/document/10094780 ITER-SIS: Robust Unlimited Sampling Via Iterative Signal Sieving] \n
+#(short paper, acceptance rate: 105\/948=11.08\%, total rate: 189\/948=19.94\%) \n
+Ruiming Guo and Ayush Bhandari \n
+n IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP). IEEE, Jun. 2023.
+- [pubs/usf_FRI.pdf Unlimited Sampling of FRI Signals Independent of Sampling Rate] \n
+#- [https://ieeexplore.ieee.org/document/10096906 Unlimited Sampling of FRI Signals Independent of Sampling Rate] \n
+#(short paper, acceptance rate: 105\/948=11.08\%, total rate: 189\/948=19.94\%) \n
+Ruiming Guo and Ayush Bhandari \n
+in IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP). IEEE, Jun. 2023.
+- [pubs/curve.pdf FRI Sensing: Sampling Images along Unknown Curves] \n
+#- [https://ieeexplore.ieee.org/document/8682618 FRI Sensing: Sampling Images along Unknown Curves] \n
+#(short paper, acceptance rate: 105\/948=11.08\%, total rate: 189\/948=19.94\%) \n
+Ruiming Guo and Thierry Blu \n
+in IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP). IEEE, May 2019.
+- [pubs/cfs.pdf CFSNet: Toward a Controllable Feature Space for Image Restoration] \n
+#- [https://ieeexplore.ieee.org/document/9009077 CFSNet: Toward a Controllable Feature Space for Image Restoration] \n
+#(short paper, acceptance rate: 105\/948=11.08\%, total rate: 189\/948=19.94\%) \n
+Wei Wang*, Ruiming Guo*, Yapeng Tian, Wenming Yang \n
+in Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), Oct. 2019.
+
 
