@@ -2,6 +2,10 @@
 == Publications 
 
 === Journal
+- [pubs/USF_SRes.pdf Unlocking Off-the-Grid Sparse Recovery with Unlimited Sensing:Simultaneous Super-Resolution in Time and Amplitude] \n
+#- [https://ieeexplore.ieee.org/abstract/document/10313215 Super-Resolving a Frequency Band] \n
+Ruiming Guo and Ayush Bhandari \n
+in IEEE J. Sel. Topics Signal Process., 2025 (to appear).
 - [pubs/SIIMS.pdf Blind Time-of-Flight Imaging: Sparse Deconvolution on the Continuum with Unknown Kernels] \n
 #- [https://ieeexplore.ieee.org/abstract/document/10313215 Super-Resolving a Frequency Band] \n
 Ruiming Guo and Ayush Bhandari \n
@@ -36,6 +40,11 @@ Yongfei Li\*, Ruiming Guo\*, Thierry Blu, Hangfang Zhao\n
 in the Journal of the Acoustical Society of America, vol. 152, no. 6, pp. 3523–3534, Dec. 2022.
 
 === Conference
+- [pubs/BWE.pdf Ironing the Modulo Folds: Unlimited Sensing with 100x Bandwidth Expansion] \n
+#- [https://ieeexplore.ieee.org/document/10447003 Frequency Estimation via Sub-Nyquist Unlimited Sampling] \n
+#(short paper, acceptance rate: 105\/948=11.08\%, total rate: 189\/948=19.94\%) \n
+Yuliang Zhu, Ruiming Guo, Ayush Bhandari \n
+in Intl. Conf. on Sampling Theory and Applications (SampTA), Aug. 2025 (*Best Paper Award*).
 - [pubs/ed_frest.pdf ED-FreEst: Event-Driven Frequency Estimation] \n
 #- [https://ieeexplore.ieee.org/document/10715061 ED-FreEst: Event-Driven Frequency Estimation] \n 
 #(short paper, acceptance rate: 105\/948=11.08\%, total rate: 189\/948=19.94\%) \n
