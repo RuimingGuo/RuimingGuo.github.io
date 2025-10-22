@@ -12,7 +12,7 @@ Ruiming Guo and Ayush Bhandari \n
 in SIAM Journal on Imaging Sciences, 2025.
 - [pubs/6K.pdf Sub-Nyquist USF Spectral Estimation: K Frequencies with 6K+4 Modulo Samples] \n
 #- [https://ieeexplore.ieee.org/abstract/document/10697968 Sub-Nyquist USF Spectral Estimation: K Frequencies with 6K+4 Modulo Samples] \n
-Ruiming Guo, Yuliang Zhu, Ayush Bhandari \n
+Ruiming Guo, Yuliang Zhu, and Ayush Bhandari \n
 in IEEE Trans. Signal Process., (in production) 2024.
 - [pubs/super_trick.pdf Super-Resolving a Frequency Band] \n
 #- [https://ieeexplore.ieee.org/abstract/document/10313215 Super-Resolving a Frequency Band] \n
@@ -20,7 +20,7 @@ Ruiming Guo and Thierry Blu \n
 in IEEE Signal Process. Mag., vol. 40, no. 7, pp. 73–77, Nov. 2023.
 - [pubs/vector_FRI.pdf Vector-FRI Recovery of Multi-Sensor Measurements] \n 
 #- [https://ieeexplore.ieee.org/document/9878078 Vector-FRI Recovery of Multi-Sensor Measurements] \n 
-Ruiming Guo, Yongfei Li, Hangfang Zhao, Thierry Blu \n
+Ruiming Guo, Yongfei Li, Hangfang Zhao, and Thierry Blu \n
 in IEEE Trans. Signal Process., vol. 70, pp. 4369–4380, Sep. 2022.
 - [pubs/1D_FRI_sensing.pdf Exploring the Geometry of One-Dimensional Signals] \n 
 #- [https://ieeexplore.ieee.org/document/9540330 Exploring the Geometry of One-Dimensional Signals] \n 
@@ -32,19 +32,44 @@ Ruiming Guo and Thierry Blu \n
 in IEEE Trans. Signal Process., vol. 68, pp. 5533–5545, Sep. 2020.
 - [pubs/generic_FRI.pdf Generic FRI-Based DOA Estimation: A Model-Fitting Method] \n 
 #- [https://ieeexplore.ieee.org/document/9466398 Generic FRI-Based DOA Estimation: A Model-Fitting Method] \n 
-Yongfei Li\*, Ruiming Guo\*, Hangfang Zhao, Thierry Blu \n
+Yongfei Li\*, Ruiming Guo\*, Hangfang Zhao, and Thierry Blu \n
 in  IEEE Trans. Signal Process., vol. 69, pp. 4102–4115, Jun. 2021.
 - [pubs/JASA_Li.pdf Robust sparse reconstruction of attenuated acoustic field with unknown range of source] \n
 #- [https://pubs.aip.org/asa/jasa/article/152/6/3523/2840157/Robust-sparse-reconstruction-of-attenuated?searchresult=1 Robust sparse reconstruction of attenuated acoustic field with unknown range of source] \n 
-Yongfei Li\*, Ruiming Guo\*, Thierry Blu, Hangfang Zhao\n
+Yongfei Li\*, Ruiming Guo\*, Thierry Blu, and Hangfang Zhao\n
 in the Journal of the Acoustical Society of America, vol. 152, no. 6, pp. 3523–3534, Dec. 2022.
 
 === Conference
 - [pubs/BWE.pdf Ironing the Modulo Folds: Unlimited Sensing with 100x Bandwidth Expansion] \n
 #- [https://ieeexplore.ieee.org/document/10447003 Frequency Estimation via Sub-Nyquist Unlimited Sampling] \n
 #(short paper, acceptance rate: 105\/948=11.08\%, total rate: 189\/948=19.94\%) \n
-Yuliang Zhu, Ruiming Guo, Ayush Bhandari \n
+Yuliang Zhu, Ruiming Guo, and Ayush Bhandari \n
 in Intl. Conf. on Sampling Theory and Applications (SampTA), Aug. 2025 (*Best Paper Award*).
+- [pubs/HoD.pdf HoD-FP Algorithm for Unlimited Sensing: Where Time Meets Frequency] \n
+#- [https://ieeexplore.ieee.org/document/10447003 Frequency Estimation via Sub-Nyquist Unlimited Sampling] \n
+#(short paper, acceptance rate: 105\/948=11.08\%, total rate: 189\/948=19.94\%) \n
+Ruiming Guo and Ayush Bhandari \n
+in IEEE International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP, in press), Dec. 2025.
+- [pubs/SSP.pdf USF Spectral Estimation: Prevalence of Gaussian Cramér-Rao Bounds Despite Modulo Folding] \n
+#- [https://ieeexplore.ieee.org/document/10447003 Frequency Estimation via Sub-Nyquist Unlimited Sampling] \n
+#(short paper, acceptance rate: 105\/948=11.08\%, total rate: 189\/948=19.94\%) \n
+Ruiming Guo and Ayush Bhandari \n
+in IEEE Statistical Signal Processing Workshop (SSP), June. 2025.
+- [pubs/Blind MB USF.pdf Spectrum Blind Unlimited Sampling of Multi-Band Signals] \n
+#- [https://ieeexplore.ieee.org/document/10715061 ED-FreEst: Event-Driven Frequency Estimation] \n 
+#(short paper, acceptance rate: 105\/948=11.08\%, total rate: 189\/948=19.94\%) \n
+Ruiming Guo and Ayush Bhandari \n
+in IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP). IEEE, April. 2025.
+- [pubs/MB USF Hardware.pdf Multiband Unlimited Sampling: Super-Nyquist or Sub-Nyquist, That is the Question!] \n
+#- [https://ieeexplore.ieee.org/document/10715061 ED-FreEst: Event-Driven Frequency Estimation] \n 
+#(short paper, acceptance rate: 105\/948=11.08\%, total rate: 189\/948=19.94\%) \n
+Ruiming Guo, Gal Shtendel and Ayush Bhandari \n
+in IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP). IEEE, April. 2025.
+- [pubs/TEM_1.pdf Event-Driven Prony: Towards Asynchronous Spectral Estimation] \n
+#- [https://ieeexplore.ieee.org/document/10715061 ED-FreEst: Event-Driven Frequency Estimation] \n 
+#(short paper, acceptance rate: 105\/948=11.08\%, total rate: 189\/948=19.94\%) \n
+Ruiming Guo, Yuliang Zhu and Ayush Bhandari \n
+in IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP). IEEE, April. 2025.
 - [pubs/ed_frest.pdf ED-FreEst: Event-Driven Frequency Estimation] \n
 #- [https://ieeexplore.ieee.org/document/10715061 ED-FreEst: Event-Driven Frequency Estimation] \n 
 #(short paper, acceptance rate: 105\/948=11.08\%, total rate: 189\/948=19.94\%) \n
@@ -53,17 +78,17 @@ in European Signal Processing Conference (EUSIPCO). EURASIP, Aug. 2024.
 - [pubs/Bits_Channels_Frequencies_and_Unlimited_Sensing_Pushing_the_Limits_of_Sub-Nyquist_Prony.pdf Bits, Channels, Frequencies and Unlimited Sensing: Pushing the Limits of Sub-Nyquist Prony] \n
 #- [https://ieeexplore.ieee.org/document/10715350 Bits, Channels, Frequencies and Unlimited Sensing: Pushing the Limits of Sub-Nyquist Prony] \n
 #(short paper, acceptance rate: 105\/948=11.08\%, total rate: 189\/948=19.94\%) \n
-Václav Pavlíček, Ruiming Guo, Ayush Bhandari \n
+Václav Pavlíček, Ruiming Guo, and Ayush Bhandari \n
 in European Signal Processing Conference (EUSIPCO). EURASIP, Aug. 2024.
 - [pubs/Super-resolving_Single_Radar_Target_with_an_Exact_and_Simple_Formula.pdf Super-resolving Single Radar Target with an Exact and Simple Formula] \n
 #- [https://ieeexplore.ieee.org/document/10628298 Super-resolving Single Radar Target with an Exact and Simple Formula] \n
 #(short paper, acceptance rate: 105\/948=11.08\%, total rate: 189\/948=19.94\%) \n
-Qi Dai, Ruiming Guo, Thierry Blu \n
+Qi Dai, Ruiming Guo, and Thierry Blu \n
 in International Technical Conference on Circuits/Systems, Computers, and Communications. July.2024.
 - [pubs/Frequency_Estimation_via_Sub-Nyquist_Unlimited_Sampling.pdf Frequency Estimation via Sub-Nyquist Unlimited Sampling] \n
 #- [https://ieeexplore.ieee.org/document/10447003 Frequency Estimation via Sub-Nyquist Unlimited Sampling] \n
 #(short paper, acceptance rate: 105\/948=11.08\%, total rate: 189\/948=19.94\%) \n
-Yuliang Zhu, Ruiming Guo, Peiyu Zhang, Ayush Bhandari \n
+Yuliang Zhu, Ruiming Guo, Peiyu Zhang, and Ayush Bhandari \n
 in IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP). IEEE, Apr. 2024.
 - [pubs/itersis.pdf ITER-SIS: Robust Unlimited Sampling Via Iterative Signal Sieving] \n
 #- [https://ieeexplore.ieee.org/document/10094780 ITER-SIS: Robust Unlimited Sampling Via Iterative Signal Sieving] \n
@@ -83,7 +108,7 @@ in IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP). IEEE, M
 - [pubs/cfs.pdf CFSNet: Toward a Controllable Feature Space for Image Restoration] \n
 #- [https://ieeexplore.ieee.org/document/9009077 CFSNet: Toward a Controllable Feature Space for Image Restoration] \n
 #(short paper, acceptance rate: 105\/948=11.08\%, total rate: 189\/948=19.94\%) \n
-Wei Wang\*, Ruiming Guo\*, Yapeng Tian, Wenming Yang \n
+Wei Wang\*, Ruiming Guo\*, Yapeng Tian, and Wenming Yang \n
 in Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), Oct. 2019.
 
 
