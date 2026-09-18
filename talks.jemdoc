@@ -1,12 +1,14 @@
 # jemdoc: menu{MENU}{talks.html}, nofooter
 == Invited Talks
 
+== Keynote Speech
+- /Towards Machine-Centric Time-Resolved Imaging: Beyond the Limits of Linear Perception, ICIP 2026 Workshop on Time-Resolved Computational Imaging, Sep 2026.
+
 == Tutorials
-- /Unlimited Sensing: From Theoretical Foundations to Practical Impact/, ICASSP 2025, April 2025.
+- /Unlimited Sensing: From Theoretical Foundations to Practical Impact/, ICASSP 2025, April 2024.
 - /Computational Sensing: From Shannon Sampling to Hardware-Software Co-Design/, EUSIPCO 2024, 26 Aug 2024.
 
 == Talks
-- Unlimited Sensing for Sparse Signals, Imperial College London, 25 Nov 2025.
 - Sub-Nyquist USF Spectral Estimation: K Frequencies with 6K+4 Modulo Samples, Imperial College London, 26 Feb 2024.
 - Unlimited Sensing Framework: Digitization Beyond the Shannon-Nyquist Philosophy, The Chinese University of Hong Kong, 3 Oct 2023.
 - Unlimited Sensing Framework: Digitization Beyond the Shannon-Nyquist Philosophy, Zhejiang University, 21 Jul 2023.
