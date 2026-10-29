@@ -2,13 +2,13 @@
 == Ruiming Guo
 
 ~~~
-{}{img_left}{photos/IEEERG.jpg}{alt text}{166px}{207px}
+{}{img_left}{photos/RG_new.png}{alt text}{166px}{207px}
 [https://ruimingguo.github.io/ Ruiming Guo], Ph.D. \n 
 Postdoctoral Research Associate \n 
+\n
 Computational Sensing and Imaging Lab \n
 Department of Electrical and Electronic Engg \n
 [https://www.imperial.ac.uk/ Imperial College London], London SW7-2AZ \n
-\n
 \n
 \n
 Email: ruiming.guo@imperial.ac.uk or greenming@link.cuhk.edu.hk \n
@@ -32,7 +32,7 @@ Email: ruiming.guo@imperial.ac.uk or greenming@link.cuhk.edu.hk \n
 == About me
 I am a Postdoctoral Research Associate at EEE Department of Imperial College London (ICL), working with Prof. Ayush Bhandari on computational imaging and modulo sampling. Previously, I was a Postdoctoral fellow at EE Department at CUHK, advised by Prof. Thierry BLU. I obtained my Ph.D. degree from the Chinese University of Hong Kong where I had a wonderful time, in July 2021, supervised by Prof. Thierry BLU. I received my bachelor's degree in Electronic Engineering from Sichuan University (SCU) in 2017.
 
-My research includes sampling theory, image and signal processing, computational imaging, and non-conventional geometric visualization of 1D real data. Currently, I am focusing on the Unlimited Sensing Framework, an emerging field that integrates a synergetic co-design of unconventional hardware and novel mathematical algorithms.
+My research aims to advance acquisition-recovery co-design to redefine the limits of computational sensing. At its core is a key insight: structured quantization noise enables /exact/ smooth signal recovery where traditional quantized representations fail. Harnessing this principle reshapes long-standing paradigms across digital acquisition, representation, and processing.
 
 == Education 
 - Ph.D. in Electronic Engineering, the Chinese University of Hong Kong, Jul. 2017 - Jul. 2021
