@@ -2,124 +2,124 @@
 == Publications 
 
 === Journal
-- [pubs/USF_audio.pdf Re-thinking Digital Audio via Unlimited Sensing: Theory, Algorithms, and Hardware Validation] \n
+\[J10\] [pubs/USF_audio.pdf Re-thinking Digital Audio via Unlimited Sensing: Theory, Algorithms, and Hardware Validation] \n
 Ruiming Guo, Yuliang Zhu, and Ayush Bhandari \n
 in IEEE Trans. Audio, Speech, Language Process., pp. 1–16, 2026.
 
-- [pubs/USF_SRes.pdf Unlocking Off-the-Grid Sparse Recovery with Unlimited Sensing: Simultaneous Super-Resolution in Time and Amplitude] \n
+\[J9\] [pubs/USF_SRes.pdf Unlocking Off-the-Grid Sparse Recovery with Unlimited Sensing: Simultaneous Super-Resolution in Time and Amplitude] \n
 Ruiming Guo and Ayush Bhandari \n
 in IEEE J. Sel. Topics Signal Process., pp. 1–13, 2025.
 
-- [pubs/Guo_SIIMS_2025.pdf Blind Time-of-Flight Imaging: Sparse Deconvolution on the Continuum with Unknown Kernels] \n
+\[J8\] [pubs/Guo_SIIMS_2025.pdf Blind Time-of-Flight Imaging: Sparse Deconvolution on the Continuum with Unknown Kernels] \n
 Ruiming Guo and Ayush Bhandari \n
 in SIAM J. Imaging Sci., vol. 18, no. 2, pp. 1439–1467, May 2025.
 
-- [pubs/Guo_TSP_2024.pdf Sub-Nyquist USF Spectral Estimation: K Frequencies with 6K+4 Modulo Samples] \n
+\[J7\] [pubs/Guo_TSP_2024.pdf Sub-Nyquist USF Spectral Estimation: K Frequencies with 6K+4 Modulo Samples] \n
 Ruiming Guo, Yuliang Zhu, and Ayush Bhandari \n
 in IEEE Trans. Signal Process., vol. 72, pp. 5065–5076, 2024.
 
-- [pubs/Guo_SPM_2023.pdf Super-Resolving a Frequency Band] \n
+\[J6\] [pubs/Guo_SPM_2023.pdf Super-Resolving a Frequency Band] \n
 Ruiming Guo and Thierry Blu \n
 in IEEE Signal Process. Mag., vol. 40, no. 7, pp. 73–77, Nov. 2023.
 
-- [pubs/Li_JASA_2022.pdf Robust sparse reconstruction of attenuated acoustic field with unknown range of source] \n
+\[J5\] [pubs/Li_JASA_2022.pdf Robust sparse reconstruction of attenuated acoustic field with unknown range of source] \n
 Yongfei Li\*, Ruiming Guo\*, Thierry Blu, and Hangfang Zhao \n
 in J. Acoust. Soc. Am., vol. 152, no. 6, pp. 3523–3534, Dec. 2022.
 
-- [pubs/Guo_TSP_2022.pdf Vector-FRI Recovery of Multi-Sensor Measurements] \n
+\[J4\] [pubs/Guo_TSP_2022.pdf Vector-FRI Recovery of Multi-Sensor Measurements] \n
 Ruiming Guo, Yongfei Li, Thierry Blu, and Hangfang Zhao \n
 in IEEE Trans. Signal Process., vol. 70, pp. 4369–4380, Sep. 2022.
 
-- [pubs/Li_TSP_2021.pdf Generic FRI-Based DOA Estimation: A Model-Fitting Method] \n
+\[J3\] [pubs/Li_TSP_2021.pdf Generic FRI-Based DOA Estimation: A Model-Fitting Method] \n
 Yongfei Li\*, Ruiming Guo\*, Thierry Blu, and Hangfang Zhao \n
 in IEEE Trans. Signal Process., vol. 69, pp. 4102–4115, Jun. 2021.
 
-- [pubs/Guo_TSP_2021.pdf Exploring the Geometry of One-Dimensional Signals] \n
+\[J2\] [pubs/Guo_TSP_2021.pdf Exploring the Geometry of One-Dimensional Signals] \n
 Ruiming Guo and Thierry Blu \n
 in IEEE Trans. Signal Process., vol. 69, pp. 5299–5312, 2021.
 
-- [pubs/Guo_TSP_2020.pdf FRI Sensing: Retrieving the Trajectory of a Mobile Sensor From Its Temporal Samples] \n
+\[J1\] [pubs/Guo_TSP_2020.pdf FRI Sensing: Retrieving the Trajectory of a Mobile Sensor From Its Temporal Samples] \n
 Ruiming Guo and Thierry Blu \n
 in IEEE Trans. Signal Process., vol. 68, pp. 5533–5545, 2020.
 
 
 === Conference
-- [pubs/Pavlicek_EUSIPCO_2026.pdf Unlimited Sensing of Sinusoidal Plane Waves] \n
+\[C20\] [pubs/Pavlicek_EUSIPCO_2026.pdf Unlimited Sensing of Sinusoidal Plane Waves] \n
 Václav Pavlíček, Ruiming Guo, and Ayush Bhandari \n
 in European Signal Processing Conference (EUSIPCO), 2026.
 
-- [pubs/Guo_EUSIPCO_2026a.pdf Asynchronous Multi-Channel USF: Modified CRT For Modulo Unfolding] \n
+\[C19\] [pubs/Guo_EUSIPCO_2026a.pdf Asynchronous Multi-Channel USF: Modified CRT For Modulo Unfolding] \n
 Ruiming Guo and Ayush Bhandari \n
 in European Signal Processing Conference (EUSIPCO), 2026.
 
-- [pubs/Guo_EUSIPCO_2026b.pdf Digital Audio Via Unlimited Sensing: Overflow Overcomes Clipping And Overflow] \n
+\[C18\] [pubs/Guo_EUSIPCO_2026b.pdf Digital Audio Via Unlimited Sensing: Overflow Overcomes Clipping And Overflow] \n
 Ruiming Guo and Ayush Bhandari \n
 in European Signal Processing Conference (EUSIPCO), 2026.
 
-- [pubs/Pavlicek_ICASSP_2026.pdf Towards Event-Driven Radars: Spectral Super-Resolution and Hardware] \n
+\[C17\] [pubs/Pavlicek_ICASSP_2026.pdf Towards Event-Driven Radars: Spectral Super-Resolution and Hardware] \n
 Václav Pavlíček, Ruiming Guo, and Ayush Bhandari \n
 in IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP), pp. 776–780, May 2026.
 
-- [pubs/Guo_ICASSP_2026.pdf Enhancing Doppler and FMCW Radars via Unlimited Sensing] \n
+\[C16\] [pubs/Guo_ICASSP_2026.pdf Enhancing Doppler and FMCW Radars via Unlimited Sensing] \n
 Ruiming Guo, Václav Pavlíček, and Ayush Bhandari \n
 in IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP), pp. 761–765, May 2026.
 
-- [pubs/Guo_CAMSAP_2025.pdf HoD-FP Algorithm for Unlimited Sensing: Where Time Meets Frequency] \n
+\[C15\] [pubs/Guo_CAMSAP_2025.pdf HoD-FP Algorithm for Unlimited Sensing: Where Time Meets Frequency] \n
 Ruiming Guo and Ayush Bhandari \n
 in IEEE International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP), pp. 116–120, Dec. 2025.
 
-- [pubs/Zhu_SampTA_2025.pdf Ironing the Modulo Folds: Unlimited Sensing with 100x Bandwidth Expansion] \n
+\[C14\] [pubs/Zhu_SampTA_2025.pdf Ironing the Modulo Folds: Unlimited Sensing with 100x Bandwidth Expansion] \n
 Yuliang Zhu, Ruiming Guo, and Ayush Bhandari \n
 in Intl. Conf. on Sampling Theory and Applications (SampTA), pp. 1–5, Jul. 2025 (*Best Paper Award*).
 
-- [pubs/Guo_SSP_2025.pdf USF Spectral Estimation: Prevalence of Gaussian Cramér-Rao Bounds Despite Modulo Folding] \n
+\[C13\] [pubs/Guo_SSP_2025.pdf USF Spectral Estimation: Prevalence of Gaussian Cramér-Rao Bounds Despite Modulo Folding] \n
 Ruiming Guo and Ayush Bhandari \n
 in IEEE Statistical Signal Processing Workshop (SSP), pp. 51–55, Jun. 2025.
 
-- [pubs/Guo_ICASSP_2025a.pdf Spectrum Blind Unlimited Sampling of Multi-Band Signals] \n
+\[C12\] [pubs/Guo_ICASSP_2025a.pdf Spectrum Blind Unlimited Sampling of Multi-Band Signals] \n
 Ruiming Guo and Ayush Bhandari \n
 in IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP), pp. 1–5, Apr. 2025.
 
-- [pubs/Guo_ICASSP_2025b.pdf Multiband Unlimited Sampling: Super-Nyquist or Sub-Nyquist, That is the Question!] \n
+\[C11\] [pubs/Guo_ICASSP_2025b.pdf Multiband Unlimited Sampling: Super-Nyquist or Sub-Nyquist, That is the Question!] \n
 Ruiming Guo, Gal Shtendel, and Ayush Bhandari \n
 in IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP), pp. 1–5, Apr. 2025.
 
-- [pubs/Guo_ICASSP_2025c.pdf Event-Driven Prony: Towards Asynchronous Spectral Estimation] \n
+\[C10\] [pubs/Guo_ICASSP_2025c.pdf Event-Driven Prony: Towards Asynchronous Spectral Estimation] \n
 Ruiming Guo, Yuliang Zhu, and Ayush Bhandari \n
 in IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP), pp. 1–5, Apr. 2025.
 
-- [pubs/Dai_ICASSP_2025.pdf Fast and Robust High Resolution Frequency Estimation of Damped Signals] \n
+\[C9\] [pubs/Dai_ICASSP_2025.pdf Fast and Robust High Resolution Frequency Estimation of Damped Signals] \n
 Qi Dai, Ruiming Guo, and Thierry Blu \n
 in IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP), pp. 1–5, Apr. 2025.
 
-- [pubs/Guo_EUSIPCO_2024.pdf ED-FreEst: Event-Driven Frequency Estimation] \n
+\[C8\] [pubs/Guo_EUSIPCO_2024.pdf ED-FreEst: Event-Driven Frequency Estimation] \n
 Ruiming Guo and Ayush Bhandari \n
 in European Signal Processing Conference (EUSIPCO), pp. 867–871, Aug. 2024.
 
-- [pubs/Pavlicek_EUSIPCO_2024.pdf Bits, Channels, Frequencies and Unlimited Sensing: Pushing the Limits of Sub-Nyquist Prony] \n
+\[C7\] [pubs/Pavlicek_EUSIPCO_2024.pdf Bits, Channels, Frequencies and Unlimited Sensing: Pushing the Limits of Sub-Nyquist Prony] \n
 Václav Pavlíček, Ruiming Guo, and Ayush Bhandari \n
 in European Signal Processing Conference (EUSIPCO), pp. 2462–2466, Aug. 2024.
 
-- [pubs/Dai_ITCCSCC_2024.pdf Super-resolving Single Radar Target with an Exact and Simple Formula] \n
+\[C6\] [pubs/Dai_ITCCSCC_2024.pdf Super-resolving Single Radar Target with an Exact and Simple Formula] \n
 Qi Dai, Ruiming Guo, and Thierry Blu \n
 in Intl. Tech. Conf. on Circuits/Systems, Computers, and Communications (ITC-CSCC), pp. 1–5, Jul. 2024.
 
-- [pubs/Zhu_ICASSP_2024.pdf Frequency Estimation via Sub-Nyquist Unlimited Sampling] \n
+\[C5\] [pubs/Zhu_ICASSP_2024.pdf Frequency Estimation via Sub-Nyquist Unlimited Sampling] \n
 Yuliang Zhu, Ruiming Guo, Peiyu Zhang, and Ayush Bhandari \n
 in IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP), Apr. 2024.
 
-- [pubs/Guo_ICASSP_2023a.pdf ITER-SIS: Robust Unlimited Sampling Via Iterative Signal Sieving] \n
+\[C4\] [pubs/Guo_ICASSP_2023a.pdf ITER-SIS: Robust Unlimited Sampling Via Iterative Signal Sieving] \n
 Ruiming Guo and Ayush Bhandari \n
 in IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP), Jun. 2023.
 
-- [pubs/Guo_ICASSP_2023b.pdf Unlimited Sampling of FRI Signals Independent of Sampling Rate] \n
+\[C3\] [pubs/Guo_ICASSP_2023b.pdf Unlimited Sampling of FRI Signals Independent of Sampling Rate] \n
 Ruiming Guo and Ayush Bhandari \n
 in IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP), Jun. 2023.
 
-- [pubs/Wang_ICCV_2019.pdf CFSNet: Toward a Controllable Feature Space for Image Restoration] \n
+\[C2\] [pubs/Wang_ICCV_2019.pdf CFSNet: Toward a Controllable Feature Space for Image Restoration] \n
 Wei Wang\*, Ruiming Guo\*, Yapeng Tian, and Wenming Yang \n
 in IEEE/CVF International Conference on Computer Vision (ICCV), pp. 4139–4148, Oct. 2019.
 
-- [pubs/Guo_ICASSP_2019.pdf FRI Sensing: Sampling Images along Unknown Curves] \n
+\[C1\] [pubs/Guo_ICASSP_2019.pdf FRI Sensing: Sampling Images along Unknown Curves] \n
 Ruiming Guo and Thierry Blu \n
 in IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP), pp. 5132–5136, May 2019.
