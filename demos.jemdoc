@@ -1,9 +1,23 @@
+# jemdoc: menu{MENU}{demos.html}, nofooter
 == Technology Demonstrations
 
-- *GERF 2026*: /Digital Revolution in 2026/ \n The Great Exhibition Road Festival, 06/2026.
-- *ICASSP 2026*: /Unlimited Sensing Radar: Enhancing Resolution via Modulo ADCs/ \n IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP) Show & Tell Demonstration, 05/2026.
-- *ICASSP 2026*: /Event-Driven Radar: One-Bit Spectral Super-Resolution and Hardware/ \n IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP) Show & Tell Demonstration, 05/2026.
-- *SampTA 2025*: /Unlimited Sensing: From Concept to Impact/ \n IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP) Show & Tell Demonstration, 07/2025.
-- *ICASSP 2025*: /Hardware Demo of Sub-Nyquist Unlimited Sampling of Multiband Signals/ \n IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP) Show & Tell Demonstration, 04/2025.
-- *ICASSP 2025*: /Spectral Estimation with Modulo ADCs: Enhancing Resolution with Sparsity/ \n IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP) Show & Tell Demonstration, 04/2025.
-- *ICASSP 2024*: /Sub-Nyquist Frequency Estimation via Multi-Channel Unlimited Sampling ADCs/ \n IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP) Show & Tell Demonstration, 04/2024.
+- *GERF 2026*: /Digital Revolution in 2026/ \n
+The Great Exhibition Road Festival, 06/2026.
+
+- *ICASSP 2026*: /Unlimited Sensing Radar: Enhancing Resolution via Modulo ADCs/ \n
+IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP) Show & Tell Demonstration, 05/2026.
+
+- *ICASSP 2026*: /Event-Driven Radar: One-Bit Spectral Super-Resolution and Hardware/ \n
+IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP) Show & Tell Demonstration, 05/2026.
+
+- *SampTA 2025*: /Unlimited Sensing: From Concept to Impact/ \n
+Intl. Conf. on Sampling Theory and Applications (SampTA) Show & Tell Demonstration, 07/2025.
+
+- *ICASSP 2025*: /Hardware Demo of Sub-Nyquist Unlimited Sampling of Multiband Signals/ \n
+IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP) Show & Tell Demonstration, 04/2025.
+
+- *ICASSP 2025*: /Spectral Estimation with Modulo ADCs: Enhancing Resolution with Sparsity/ \n
+IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP) Show & Tell Demonstration, 04/2025.
+
+- *ICASSP 2024*: /Sub-Nyquist Frequency Estimation via Multi-Channel Unlimited Sampling ADCs/ \n
+IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP) Show & Tell Demonstration, 04/2024.
