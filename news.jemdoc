@@ -8,13 +8,13 @@
 {}{raw}
 <div style="display: flex; gap: 10px; margin: 8px 0 20px 0; align-items: center; flex-wrap: nowrap; max-width: 100%;">
   <a href="https://www.imperial.ac.uk/news/articles/2026/imperial-engineers-challenge-90-year-limitation-in-digital-audio-sensing/" target="_blank">
-    <img src="photos/usf_audio1.jpg" style="height: 205px; width: auto; max-width: 100%; border: 1px solid #ccc; border-radius: 4px;" alt="Imperial College London News" />
+    <img src="photos/usf_audio1.jpg" style="height: 230px; width: auto; max-width: 100%; border: 1px solid #ccc; border-radius: 4px;" alt="Imperial College London News" />
   </a>
   <a href="https://techxplore.com/news/2026-11-year-limitation-digital-audio.html" target="_blank">
-    <img src="photos/usf_audio2.jpg" style="height: 205px; width: auto; max-width: 100%; border: 1px solid #ccc; border-radius: 4px;" alt="TechXplore Coverage" />
+    <img src="photos/usf_audio2.jpg" style="height: 230px; width: auto; max-width: 100%; border: 1px solid #ccc; border-radius: 4px;" alt="TechXplore Coverage" />
   </a>
   <a href="https://greaterlondonherald.co.uk/kensington-and-chelsea/general/imperial-engineers-develop-new-digital-audio-sensing-technology" target="_blank">
-    <img src="photos/usf_audio3.jpg" style="height: 205px; width: auto; max-width: 100%; border: 1px solid #ccc; border-radius: 4px;" alt="Greater London Herald News" />
+    <img src="photos/usf_audio3.jpg" style="height: 230px; width: auto; max-width: 100%; border: 1px solid #ccc; border-radius: 4px;" alt="Greater London Herald News" />
   </a>
 </div>
 ~~~
@@ -23,7 +23,7 @@
 ~~~
 {}{raw}
 <a href="https://alumni.media.mit.edu/~ayush/ToF2026/" target="_blank">
-  <img src="photos/icip.jpg" style="height: 205px; width: auto; display: block; margin: 8px 0 20px 0; border: 1px solid #ccc; border-radius: 4px;" alt="ICIP Keynote" />
+  <img src="photos/icip.jpg" style="height: 230px; width: auto; display: block; margin: 8px 0 20px 0; border: 1px solid #ccc; border-radius: 4px;" alt="ICIP Keynote" />
 </a>
 ~~~
 
@@ -33,7 +33,7 @@
 ~~~
 {}{raw}
 <a href="https://www.imperial.ac.uk/news/267233/best-paper-award-another-step-unlimited/" target="_blank">
-  <img src="photos/sampta.jpg" style="height: 205px; width: auto; display: block; margin: 8px 0 20px 0; border: 1px solid #ccc; border-radius: 4px;" alt="SampTA Award" />
+  <img src="photos/sampta.jpg" style="height: 230px; width: auto; display: block; margin: 8px 0 20px 0; border: 1px solid #ccc; border-radius: 4px;" alt="SampTA Award" />
 </a>
 ~~~
 
